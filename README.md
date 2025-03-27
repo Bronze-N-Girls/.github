@@ -61,35 +61,44 @@
 
 - **주제 선정 이유** <br/>
   - **e스포츠의 큰 영향력** <br/>
-<img src='https://github.com/user-attachments/assets/6e01e450-f6f2-4465-87da-41e0e1547466' width=500></img> <br/>
-<img src='https://github.com/user-attachments/assets/1a9c977a-b36b-43a5-b481-583285b2462d' width=500></img> <br/>
-<img src='https://github.com/user-attachments/assets/72961b32-b4a8-4029-8fb4-8212b7af39cf' width=500></img> <br/>
+<p align="center">
+  <img src='https://github.com/user-attachments/assets/6e01e450-f6f2-4465-87da-41e0e1547466' width=500></img> <br/>
+  <img src='https://github.com/user-attachments/assets/1a9c977a-b36b-43a5-b481-583285b2462d' width=500></img> <br/>
+  <img src='https://github.com/user-attachments/assets/72961b32-b4a8-4029-8fb4-8212b7af39cf' width=500></img> <br/>
+</p>
 
   - **긍적적인 경제적 영향력** <br/>
-<img src='https://github.com/user-attachments/assets/46b40477-516a-4b55-8920-af1b4a5fe648' width=500></img> <br/>
-<img src='https://github.com/user-attachments/assets/cc501821-9a76-473d-815e-cd941afb7acc' width=500></img> <br/>
+<p align="center">
+  <img src='https://github.com/user-attachments/assets/46b40477-516a-4b55-8920-af1b4a5fe648' width=500></img> <br/>
+  <img src='https://github.com/user-attachments/assets/cc501821-9a76-473d-815e-cd941afb7acc' width=500></img> <br/>
+</p>
 
 <br/>
 
 ## 🚨문제점
 
 ### 1) 10년 이상 인기를 얻은 게임으로 인한 높은 신규 유입 장벽
-<img src='https://github.com/user-attachments/assets/5adfc638-8f26-4c81-8d3e-2c772b2b6cbf' width=500></img> <br/>
-
+<p align="center">
+  <img src='https://github.com/user-attachments/assets/5adfc638-8f26-4c81-8d3e-2c772b2b6cbf' width=500></img> <br/>
+</p>
 <br/>
 
 ### 2) 사이버 폭력 문제
-<img src='https://github.com/user-attachments/assets/f963c0f8-67af-4116-9e31-aae6ab347a47' width=500></img> <br/>
-
+<p align="center">
+  <img src='https://github.com/user-attachments/assets/f963c0f8-67af-4116-9e31-aae6ab347a47' width=500></img> <br/>
+</p>
 <br/>
 
 ### 3) 점차 기존 유저가 선호하지 않는 스킨 디자인으로 출시
 - 기존 스킨<br/>
-<img src='https://github.com/user-attachments/assets/e63bfe6c-0af9-4a0b-aa8f-2dcd0f245d95' width=500></img> <br/>
+<p align="center">
+  <img src='https://github.com/user-attachments/assets/e63bfe6c-0af9-4a0b-aa8f-2dcd0f245d95' width=500></img> <br/>
+</p>
 
 - 변경 후 스킨<br/>
-<img src='https://github.com/user-attachments/assets/10279864-0749-4aea-abc7-8ecbee78e4a8' width=500></img> <br/>
-
+<p align="center">
+  <img src='https://github.com/user-attachments/assets/10279864-0749-4aea-abc7-8ecbee78e4a8' width=500></img> <br/>
+</p>
 <br/>
 
 ## ✅ 프로젝트 필요성
