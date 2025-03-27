@@ -50,6 +50,7 @@
 <br/>
 ### 🌳 프로젝트 소개
 - 리그 오브 레전드의 player의 이탈을 예측 <br/>
+
 ![image](https://github.com/user-attachments/assets/943d1e95-ea9f-487c-8ca2-fd5aa94020a8)
 
 
