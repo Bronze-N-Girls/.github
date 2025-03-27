@@ -61,7 +61,7 @@
 
 - **주제 선정 이유** <br/>
   - **e스포츠의 큰 영향력** <br/>
-<img src='https://github.com/user-attachments/assets/6e01e450-f6f2-4465-87da-41e0e1547466' width=500></img> <br/>
+<img src='https://github.com/user-attachments/assets/6e01e450-f6f2-4465-87da-41e0e1547466' width=500"></img> <br/>
 <img src='https://github.com/user-attachments/assets/1a9c977a-b36b-43a5-b481-583285b2462d' width=500></img> <br/>
 <img src='https://github.com/user-attachments/assets/72961b32-b4a8-4029-8fb4-8212b7af39cf' width=500></img> <br/>
 
