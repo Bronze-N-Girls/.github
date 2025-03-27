@@ -84,10 +84,10 @@
 <br/>
 
 ### 3) 점차 기존 유저가 선호하지 않는 스킨 디자인으로 출시
-- 기존 스킨
+- 기존 스킨<br/>
 <img src='https://github.com/user-attachments/assets/e63bfe6c-0af9-4a0b-aa8f-2dcd0f245d95' width=500></img> <br/>
 
-- 변경 후 스킨
+- 변경 후 스킨<br/>
 <img src='https://github.com/user-attachments/assets/10279864-0749-4aea-abc7-8ecbee78e4a8' width=500></img> <br/>
 
 <br/>
