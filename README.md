@@ -102,12 +102,13 @@
 <br/>
 
 ## ✅ 프로젝트 필요성
-- 이탈 유저의 특성을 파악해 이탈 가능성이 있는 유저를 사전에 식별하여 게임의 지속적인 활성화와 유저 만족도를 높이기
+- 
 - 
 <br/><br/>
 
 ## 🤖 프로젝트 목표
-1. 
+- 이탈 유저의 특성을 파악해 이탈 가능성이 있는 유저를 사전에 식별하여 게임의 지속적인 활성화와 유저 만족도 극대화
+- 
 <br/><br/>
 
 ## 👓 예상한 유저의 이탈 이유
@@ -123,9 +124,35 @@
 <br/><br/>
 
 # 4️⃣ 기술스택
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vscode&logoColor=white">
+  <img src="https://img.shields.io/badge/numpy-%235865F2.svg?style=for-the-badge&logo=numpy&logoColor=white">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-%23000000.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+</p>
+<p>추가하기</p>
 <br/><br/>
 
 # 5️⃣ RIOT API 데이터 수집
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f66104b4-25b0-4866-82dc-83d939b7cc3f">
+  <h5 align="center">리그 오브 레전드(League of Legends)의 데이터에 접근할 수 있게 해주는 API 사용</h5>
+</p>
+
+### 1) LEAGUE-EXP-V4
+- `/lol/league-exp/v4/entries/{queue}/{tier}/{division}?page={page}&api_key={api_key}`
+<table>
+  <thead>
+    
+  </thead>
+</table>
+
+### 2) SUMMONER-V4
+- `/lol/summoner/v4/summoners/by-puuid/{puuid}?api_key={api_key}`
 
 # 6️⃣ 데이터 전처리 결과서 (EDA)
 
