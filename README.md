@@ -74,21 +74,21 @@
 ## 🚨문제점
 
 ### 1) 10년 이상 인기를 얻은 게임으로 인한 높은 신규 유입 장벽
-![image](https://github.com/user-attachments/assets/5adfc638-8f26-4c81-8d3e-2c772b2b6cbf)
+<img src='https://github.com/user-attachments/assets/5adfc638-8f26-4c81-8d3e-2c772b2b6cbf' width=500></img> <br/>
 
 <br/>
 
 ### 2) 사이버 폭력 문제
-![image](https://github.com/user-attachments/assets/f963c0f8-67af-4116-9e31-aae6ab347a47)
+<img src='https://github.com/user-attachments/assets/f963c0f8-67af-4116-9e31-aae6ab347a47' width=500></img> <br/>
 
 <br/>
 
 ### 3) 점차 기존 유저가 선호하지 않는 스킨 디자인으로 출시
-- 기존 스킨 
-![image](https://github.com/user-attachments/assets/e63bfe6c-0af9-4a0b-aa8f-2dcd0f245d95)
+- 기존 스킨
+<img src='https://github.com/user-attachments/assets/e63bfe6c-0af9-4a0b-aa8f-2dcd0f245d95' width=500></img> <br/>
 
 - 변경 후 스킨
-![image](https://github.com/user-attachments/assets/10279864-0749-4aea-abc7-8ecbee78e4a8)
+<img src='https://github.com/user-attachments/assets/10279864-0749-4aea-abc7-8ecbee78e4a8' width=500></img> <br/>
 
 <br/>
 
