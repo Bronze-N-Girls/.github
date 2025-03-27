@@ -1,0 +1,21 @@
+name: Setup New Repo
+on:
+  repository_created
+jobs:
+  setup:
+    runs-on: windows-latest 
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create default folders and files
+        run: |
+          mkdir .github\ISSUE_TEMPLATE
+          echo name: Issue Report > .github\ISSUE_TEMPLATE\issue_template.yml
+          echo description: Report a bug >> .github\ISSUE_TEMPLATE\issue_template.yml
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Add default issue template"
+          git push
+        shell: cmd
