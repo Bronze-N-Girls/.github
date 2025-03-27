@@ -59,9 +59,22 @@
 
 <br/>
 
-## 🚨프로젝트 문제점
+- **주제 선정 이유** <br/>
+  - **e스포츠의 큰 영향력** <br/>
+<img src='https://github.com/user-attachments/assets/6e01e450-f6f2-4465-87da-41e0e1547466' width=500></img> <br/>
+<img src='https://github.com/user-attachments/assets/1a9c977a-b36b-43a5-b481-583285b2462d' width=500></img> <br/>
+<img src='https://github.com/user-attachments/assets/72961b32-b4a8-4029-8fb4-8212b7af39cf' width=500></img> <br/>
 
-### 1) 10년 이상 인기를 얻은 게임으로 소위 말하는 롤 고인물이 증가해 신규 유입 장벽이 높음 
+  - **경제적 효과 창출** <br/>
+<img src='https://github.com/user-attachments/assets/46b40477-516a-4b55-8920-af1b4a5fe648' width=500></img> <br/>
+<img src='https://github.com/user-attachments/assets/cc501821-9a76-473d-815e-cd941afb7acc' width=500></img> <br/>
+
+<br/>
+
+## 🚨문제점
+
+### 1) 10년 이상 인기를 얻은 게임으로 인한 높은 신규 유입 장벽
+![image](https://github.com/user-attachments/assets/5adfc638-8f26-4c81-8d3e-2c772b2b6cbf)
 
 <br/>
 
@@ -81,6 +94,7 @@
 
 ## ✅ 프로젝트 필요성
 > 프로젝트가 끼칠 긍정적인 영향으로 변경
+- 
 - 리그 오브 레전드의 유저가 감소된다면 <br/>
   - 유저들에게 부정적인 영향 <br/>
     - 리그 오브 레전드는 유저들이 팀을 이루어 경쟁하는 게임
