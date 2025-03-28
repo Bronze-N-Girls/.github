@@ -162,6 +162,7 @@
 championLevel, championPoints, championSeasonMilestone, milestoneGrades, nextSeasonMilestone(requireGradeCounts, rewardMarks, bonus, totalGamesRequires)
 
 ### 4) CHAMPION 정보 json
+- 사용할지말지 고민중
 
 # 6️⃣ 데이터 전처리 결과서 (EDA)
 
