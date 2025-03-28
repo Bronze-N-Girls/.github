@@ -145,6 +145,7 @@
 
 ### 1) LEAGUE-EXP-V4
 - `/lol/league-exp/v4/entries/{queue}/{tier}/{division}?page={page}&api_key={api_key}`
+- 사용할 컬럼: tier, rank, wins, losses, hotStreak, veteran, freshBlood, inactive
 <table>
   <thead>
     
@@ -153,6 +154,12 @@
 
 ### 2) SUMMONER-V4
 - `/lol/summoner/v4/summoners/by-puuid/{puuid}?api_key={api_key}`
+- revisionDate, summonerLevel
+
+### 3) CHAMPION-MASTERY-V4
+championLevel
+
+### 4) CHAMPION 정보 json
 
 # 6️⃣ 데이터 전처리 결과서 (EDA)
 
