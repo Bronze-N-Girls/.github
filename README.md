@@ -139,7 +139,7 @@
 
 # 5️⃣ RIOT API 데이터 수집
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f66104b4-25b0-4866-82dc-83d939b7cc3f">
+  <img src="https://github.com/user-attachments/assets/f66104b4-25b0-4866-82dc-83d939b7cc3f" width=700>
   <h5 align="center">리그 오브 레전드(League of Legends)의 데이터에 접근할 수 있게 해주는 API 사용</h5>
 </p>
 
