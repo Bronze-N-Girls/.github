@@ -16,8 +16,8 @@
       </a><br />
     </td>
     <td align="center">
-      <a href="https://github.com/HybuKimo">
-        <img src="https://github.com/HybuKimo.png" width="200" alt="hyunwook"/><br /><hr/>
+      <a href="">
+        <img src="g" width="200" alt="hyunwook"/><br /><hr/>
         정현욱
       </a><br />
     </td>
@@ -28,13 +28,13 @@
       </a><br />
     </td>
     <td align="center">
-      <a href="https://github.com/yugyeongh">
+      <a href="">
         <img src="" width="200" alt="hansol"/><br /><hr/>
         김한솔
       </a><br />
     </td>
     <td align="center">
-      <a href="https://github.com/yugyeongh">
+      <a href="">
         <img src="" width="200" alt="jonghyun"/><br /><hr/>
         안종현
       </a><br />
