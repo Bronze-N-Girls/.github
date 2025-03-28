@@ -157,7 +157,9 @@
 - revisionDate, summonerLevel
 
 ### 3) CHAMPION-MASTERY-V4
-championLevel
+- `/lol/champion-mastery/v4/champion-masteries/by-puuid/{encryptedPUUID}/top`
+
+championLevel, championPoints, championSeasonMilestone, milestoneGrades, nextSeasonMilestone(requireGradeCounts, rewardMarks, bonus, totalGamesRequires)
 
 ### 4) CHAMPION 정보 json
 
